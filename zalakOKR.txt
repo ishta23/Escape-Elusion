@@ -7,3 +7,4 @@ DONE - Add windows and doors to get out off -Zalak 3/8 - 10AM
 DONE - swimming pool - pushed back to 3/9 - 10 AM 
 
 UI-Score - Zalak 3/8 - 10PM 
+DONE - switch weapons(bat, fire extinguisher, knife) - 3/8 - 10PM 
