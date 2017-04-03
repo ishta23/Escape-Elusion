@@ -1,4 +1,6 @@
 Schedule and deliverable:
-	Sims person set up and mount main camera on them - 3/6 
-	Fire Extinguisher script- 3/6 
-	Stove fire animation 3/6
+	the intro video 	04/06
+	lose/win sceen		04/06	
+	trash can		04/06
+	design of the house	04/06
+				
